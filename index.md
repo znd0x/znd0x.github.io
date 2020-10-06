@@ -8,3 +8,7 @@ Someone interested in cyber security, malware analysis/development, reverse engi
 
 [Android Anubis Malware Analysis (Covid-19)](https://github.com/znd0x/articles/blob/main/Mobile%20Malware%20Analysis/Android%20Anubis%20Malware%20Analysis%20(Covid-19).md)
 
+***Contact***
+
+[twitter](https://twitter.com/znd0x1)
+
