@@ -1,6 +1,6 @@
 **~$ whoami**
 
-Someone interested in cyber security, malware analysis/development, reverse engineering, system hardening, incident response, forensics etc.  x
+Someone interested in cyber security, malware analysis/development, reverse engineering, system hardening, incident response, forensics etc.  
 
 **Android Malware Analysis**
 
