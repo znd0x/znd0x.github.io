@@ -1,7 +1,7 @@
 **~$ whoami**
 
-Someone interested in cyber sec., malware analysis/development, reverse engineering, system hardening, incident response, forensics etc. 
-x
+Someone interested in cyber security, malware analysis/development, reverse engineering, system hardening, incident response, forensics etc. 
+
 **Android Malware Analysis**
 
 [Are "Who Called Me?" Apps Secure](https://github.com/znd0x/articles/blob/main/Mobile%20Malware%20Analysis/Are%20%22Who%20Called%20Me%3F%22%20Apps%20Secure%3F.md)
