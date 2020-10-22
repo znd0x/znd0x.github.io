@@ -8,5 +8,5 @@ Someone interested in cyber security, malware analysis/development, reverse engi
 
 ***Contact***
 
-[twitter](https://twitter.com/znd0x1)
+[Twitter](https://twitter.com/znd0x1)
 
